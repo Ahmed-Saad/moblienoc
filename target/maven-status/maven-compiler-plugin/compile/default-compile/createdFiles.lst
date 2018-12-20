@@ -1,0 +1,7 @@
+com\mobilenoc\task\handler\JdbcMessageHandler.class
+com\mobilenoc\task\entity\TaskDefinitionMirror.class
+com\mobilenoc\task\dao\TaskDefinitionMirrorRepository.class
+com\mobilenoc\task\service\TaskDefinitionMirrorServiceImpl.class
+com\mobilenoc\task\service\TaskDefinitionMirrorService.class
+com\mobilenoc\task\TaskApplication.class
+com\mobilenoc\task\entity\TaskDefinition.class
